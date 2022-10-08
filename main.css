@@ -4,7 +4,6 @@ body {
     width: 100%;   
     margin: 0;
     padding: 0;
-    background-color: red;
 }
 
 .forPhone{
@@ -18,19 +17,15 @@ body {
 }
 
 #phoneNum {
-
     width: 300px;
     height: 40px;
     font-size: 40px;
     outline: none;
-
 }
 
 #country{
-
     width: 60px;
     height: 40px;
     font-size: 40px;
     outline: none;
-
 }
